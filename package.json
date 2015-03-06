@@ -1,0 +1,11 @@
+{
+  "name" : "dtetest-server",
+  "version" : "0.0.1",
+  "privarte" : true,
+  "scripts" : {
+    "start" : "node app"
+  },
+  "dependences" : {
+    "express" : "*"
+  }
+}
